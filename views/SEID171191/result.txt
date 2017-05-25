@@ -1,0 +1,89 @@
+Student Result Sheet
+***********************
+Name: BASIS BITM
+Student ID: SEID1111222
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    23.53       F
+English   5           F
+Math      99          A+
+ICT       90          A+
+***********************
+***********************
+Name: XYZ
+Student ID: SEID112233
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    87          A+
+English   96.5        A+
+Math      6           F
+ICT       86          A+
+***********************
+***********************
+Name: 
+Student ID: 
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla                F
+English               F
+Math                  F
+ICT                   F
+***********************
+***********************
+Name: omar
+Student ID: seid171191
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    67          A-
+English   89          A+
+Math      67          A-
+ICT       89          A+
+***********************
+***********************
+Name: omar sharif
+Student ID: seid702
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    67          A-
+English   89          A+
+Math      67          A-
+ICT       89          A+
+***********************
+***********************
+Name: omar sharif Absary
+Student ID: seid702
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    67          A-
+English   89          A+
+Math      67          A-
+ICT       89          A+
+***********************
+***********************
+Name: oamr
+Student ID: DLSA5456
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    54          B
+English   45          C
+Math      15          F
+ICT       87          A+
+***********************
+***********************
+Name: OMAR
+Student ID: SEID171191
+***********************
+Subject    Mark     Grade
+=======   ======    =====
+Bangla    65          A-
+English   98          A+
+Math      56          B
+ICT       85          A+
+***********************
